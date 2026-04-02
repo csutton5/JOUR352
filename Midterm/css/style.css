@@ -1,0 +1,62 @@
+body {
+	background-color: #B0E0E6;
+	color: #000000;
+}	
+
+h1{
+  font-family: "Chicle", serif;
+  color: #000000;
+  font-size: 45px;
+}
+
+h2 {
+	 font-family: "Funnel Sans", sans-serif;
+	   color: #000000;
+}
+
+h3 { font-family: "Funnel Sans", sans-serif;
+	 color: #000000;
+
+}
+
+
+.juxtapose {
+	height: 500px;
+	float: center;
+	justify-content: center;
+	align-items: center; 
+	margin-left: 200px;
+}
+
+.date{
+	float: right;
+}
+.video {
+	margin-top: 100px;
+}
+
+.headline {
+	background-color: #ffcc00;
+	color: #000000;
+	padding: 20px 50px 0 30px;
+
+}
+
+.chicle-regular {
+  font-family: "Chicle", serif;
+  font-weight: 400;
+  font-style: normal;
+
+}
+.anton-regular {
+  font-family: "Anton", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.funnel-sans- {
+  font-family: "Funnel Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
