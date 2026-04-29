@@ -1,0 +1,65 @@
+body {
+	background-color: #cdc7bb;
+	color: #000000;
+
+}
+
+h1 {
+  font-family: "Noto Serif", serif;
+  font-size: 50px;
+  color: #ffffff;
+}
+
+h2 {
+  font-family: "Noto Serif", serif;
+  color: #ffffff;
+}
+
+h3 {
+  font-family: "Noto Serif", serif;
+  font-size: 25px;
+  color: #000000;
+}
+
+p {
+  font-family: "Noto Serif", serif;
+}
+
+.header {
+  background-color: #061a40;
+  padding: 30px;
+}
+
+.homelink {
+  background-color: #061a40;
+  border-left: 1px solid white;
+  padding: 45px;
+  color: #ffffff;
+
+}
+ul {
+  font-family: "Noto Serif", serif;
+
+}
+
+li {
+   font-family: "Noto Serif", serif;
+ 
+}
+
+
+.resume {
+  margin: 50px 0px 0px 135px
+}
+
+.subheader {
+ background-color: #061a40;
+  color: #ffffff; 
+}
+
+a{
+  color: #ffffff;
+}
+a:hover {
+  color: #0000FF;
+}

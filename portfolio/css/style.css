@@ -1,0 +1,83 @@
+body {
+	background-color: #cdc7bb;
+	color: #000000;
+
+}
+
+h1 {
+  font-family: "Noto Serif", serif;
+  font-size: 50px;
+  color: #ffffff;
+}
+
+h2 {
+  font-family: "Noto Serif", serif;
+   font-size: 50px;
+  color: #000000;
+}
+
+h3 {
+  font-family: "Noto Serif", serif;
+  font-size: 25px;
+  color: #ffffff;
+}
+
+p {
+  font-family: "Noto Serif", serif;
+	text-align: center;
+
+}
+
+.header {
+	background-color: #061a40;
+	padding: 30px;
+}
+
+.writtenlink {
+	background-color: #061a40;
+	border-left: 1px solid white;
+	padding: 45px;
+	color: #ffffff;
+
+}
+
+.videolink {
+	background-color: #061a40;
+	border-left: 1px solid white;
+	padding: 45px;
+	color: #000000;
+
+}
+
+.resumelink {
+	background-color: #061a40;
+	border-left: 1px solid white;
+	padding: 45px;
+	color: #000000;
+
+}
+
+.headshot {
+ padding: 50px;
+}
+
+.bio {
+	text-align: center;
+	padding: 80px;
+
+}
+
+.bebas-neue-regular {
+  font-family: "Bebas Neue", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+a{
+	color: #ffffff;
+}
+
+a:hover {
+  color: #0000FF;
+}
