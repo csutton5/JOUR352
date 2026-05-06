@@ -1,0 +1,53 @@
+body {
+	background-color: #F5F5DC;
+	color: #000000;
+}
+
+h1{
+  font-family: "Chicle", serif;
+  color: #ffffff;
+  font-size: 45px;
+}
+
+h2 {
+	 font-family: "Funnel Sans", sans-serif;
+	   color: #000000;
+}
+
+h3 { font-family: "Funnel Sans", sans-serif;
+	 color: #ffffff;
+
+}
+
+.header {
+	background-color: #8B0000 ;
+}
+.text {
+	padding: 20px 0px 0px 0px;
+}
+.dormimage {
+	background-color: #FFD700;
+	padding: 70px 0px 0px 0px;
+	margin: 20px 0px 20px;
+
+
+}
+
+.trowimage {
+	background-color: #FFD700;
+	padding: 20px 0px 0px 0px;
+	margin: 20px 0px ;
+}
+
+.map {
+	padding: 0px 0px 0px 300px;
+}
+
+.footerStyle {
+	background-color: #8B0000;
+	color: #ffffff;
+	padding: 12px;
+	height: 50px;
+	text-align: center;
+	margin-top: 50px;
+}
